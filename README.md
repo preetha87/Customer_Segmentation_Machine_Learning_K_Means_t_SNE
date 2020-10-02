@@ -1,0 +1,2 @@
+# Customer_Segmentation_Machine_Learning_K_Means_t_SNE
+This repository comprises of all the Machine Learning-related Python codes for implementing the K-Means clustering algorithm in conjunction with the t-SNE (t-distributed stochastic neighbor embedding) algorithm for the purpose of customer segmentation. This project was undertaken as part of the coursework for the Data Mining module at Dublin Business School.
